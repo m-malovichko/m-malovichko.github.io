@@ -1,7 +1,8 @@
 main:
   - title: "Publications"
     url: /publications/
-
+  - title: "CV"
+    url: /assets/cv/cv_mikhail_malovichko.pdf
 #  - title: "Posts"
 #    url: /posts/
 #  - title: "Categories"
