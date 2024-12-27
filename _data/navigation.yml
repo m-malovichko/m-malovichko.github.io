@@ -1,8 +1,9 @@
 main:
   - title: "Publications"
-    url: /publications/
+    #url: /publications/
+    url: "https://scholar.google.ru/citations?hl=en&user=sgJCUjYAAAAJ&view_op=list_works&sortby=pubdate"
   - title: "CV"
-    url: /assets/cv/CV_Malovichko.pdf
+    url: /assets/cv/Malovichko_CV.pdf
 #  - title: "Posts"
 #    url: /posts/
 #  - title: "Categories"
