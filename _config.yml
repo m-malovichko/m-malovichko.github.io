@@ -16,9 +16,7 @@
 title: Mikhail Malovichko
 email: michael.malovichko@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Sr. Geophysisist at Aramco Innovations.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -61,7 +59,13 @@ author:
   name   : "Mikhail S. Malovichko, PhD"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Sr. Geophysisist at Aramco Innovations"
-#  links:
+  links:
+    - label: "Researchgate"
+      icon: "fa-brands fa-researchgate"
+      url:  "https://www.researchgate.net/profile/Mikhail-Malovichko"
+    - label: "Google Scholar"
+      icon:  "fa-brands fa-google-scholar"
+      url: "https://scholar.google.ru/citations?user=sgJCUjYAAAAJ&hl=en"
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
 #      url: "https://"
