@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Mikhail Malovichko
+title: Mikhail S. Malovichko
 email: malovichko.mikhail@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Sr. Geophysisist at Aramco Innovations.
@@ -56,13 +56,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Mikhail S. Malovichko, PhD"
+  name   : "Mikhail Malovichko, PhD"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Sr. Geophysisist at Aramco Innovations"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:michael.malovichko@gmail.com"
+      url: "mailto:malovichko.mikhail@gmail.com"
     - label: "Researchgate"
       icon: "fa-brands fa-researchgate"
       url:  "https://www.researchgate.net/profile/Mikhail-Malovichko"
