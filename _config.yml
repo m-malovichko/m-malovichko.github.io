@@ -60,6 +60,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Sr. Geophysisist at Aramco Innovations"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:michael.malovichko@gmail.com"
     - label: "Researchgate"
       icon: "fa-brands fa-researchgate"
       url:  "https://www.researchgate.net/profile/Mikhail-Malovichko"
@@ -97,7 +100,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: splash
+      layout: single
       author_profile: true
       read_time: true
       comments: true
