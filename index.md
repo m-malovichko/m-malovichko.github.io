@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /index
 title: "About"
 layout: archive
 author_profile: true
