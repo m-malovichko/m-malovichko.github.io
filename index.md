@@ -1,6 +1,6 @@
 ---
 permalink: /index
-title: "About"
+title: ""
 layout: archive
 author_profile: true
 excerpt: 'Mikhail Malovichko'

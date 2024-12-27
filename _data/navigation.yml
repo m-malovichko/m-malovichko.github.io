@@ -1,4 +1,7 @@
 main:
+  - title: "Publications"
+    url: /pub/
+
 #  - title: "Posts"
 #    url: /posts/
 #  - title: "Categories"
