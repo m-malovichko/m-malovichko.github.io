@@ -22,6 +22,7 @@ github_username: username
 minimal_mistakes_skin: default
 search: false
 
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -57,7 +58,7 @@ plugins:
 
 author:
   name   : "Mikhail Malovichko, PhD"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/p_MG_8810.jpg" #"/assets/images/bio-photo.jpg"
   bio    : "Sr. Geophysisist at Aramco Innovations"
   links:
     - label: "Email"
